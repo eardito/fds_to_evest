@@ -1,9 +1,0 @@
-name: ea
-dependencies:
-  - python=3.7
-  - pandas
-  - notebook
-  - jupyterlab
-  - xlsxwriter
-  - schedule
-
