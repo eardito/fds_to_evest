@@ -6,13 +6,9 @@ dependencies:
   - python=3.7
   - pandas
   - notebook
-  - xlwings
   - jupyterlab
-  - openpyxl
   - xlsxwriter
-  - pyautogui
-  - spyder
-  - papermill
-  - schedule
-  - pip
-prefix: C:\Users\eardito\Documents\Anaconda\envs\ea
+
+
+
+
