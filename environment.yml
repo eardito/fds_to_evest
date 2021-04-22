@@ -1,14 +1,15 @@
 name: ea
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.7
   - pandas
   - notebook
   - jupyterlab
-  - xlwings==0.11.4
   - openpyxl
-
+  - pip:
+    - xlwings
 
 
 
