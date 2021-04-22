@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - notebook
   - jupyterlab
-  - xlwings
+  - xlwings==0.11.4
   - openpyxl
 
 
