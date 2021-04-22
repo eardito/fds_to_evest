@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - notebook
   - jupyterlab
-  - xlsxwriter
+  - xlwings
   - openpyxl
 
 
