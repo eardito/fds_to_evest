@@ -10,7 +10,7 @@ dependencies:
   - openpyxl
   - pip
   - pip:
-    - -r file:reqirements.txt
+    - -r file:requirements.txt
 
 
 
