@@ -10,7 +10,7 @@ dependencies:
   - openpyxl
   - pip
   - pip:
-    - xlwings==0.21.4
+    - -r file:reqirements.txt
 
 
 
